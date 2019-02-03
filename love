@@ -1,0 +1,38 @@
+lovebomb.me
+erase all kittens
+Mozilla thimble
+glitch
+sublime
+atom
+
+img {
+  width: 100px;
+  border-radius: 50%;
+  -webkit-transition: -webkit-transform 8s ease-in-out;
+  transition:         transform 8s ease-in-out;
+}
+img:hover {
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>thing</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Welcome to my website about knitting</h1>
+    <p>
+      Make something <strong>amazing</strong> by knitting! I love to knit! I have knit dish-cloths and scarves! I really like sewing too!
+    </p>
+    <h2>sewing</h2>
+    <img src="//c1.staticflickr.com/7/6088/6039078405_93389d56ac_b.jpg" class="zoom-large">
+    <a href="http://www.google.com"> Click here to go to Google! </a>
+
+  </body>
+</html>
